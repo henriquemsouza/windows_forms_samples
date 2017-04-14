@@ -1,0 +1,9 @@
+C:\Users\Henrique\Desktop\win FORM aps\score\score\bin\Debug\score.exe.config
+C:\Users\Henrique\Desktop\win FORM aps\score\score\bin\Debug\score.exe
+C:\Users\Henrique\Desktop\win FORM aps\score\score\bin\Debug\score.pdb
+C:\Users\Henrique\Desktop\win FORM aps\score\score\obj\Debug\score.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Desktop\win FORM aps\score\score\obj\Debug\score.Form1.resources
+C:\Users\Henrique\Desktop\win FORM aps\score\score\obj\Debug\score.Properties.Resources.resources
+C:\Users\Henrique\Desktop\win FORM aps\score\score\obj\Debug\score.csproj.GenerateResource.Cache
+C:\Users\Henrique\Desktop\win FORM aps\score\score\obj\Debug\score.exe
+C:\Users\Henrique\Desktop\win FORM aps\score\score\obj\Debug\score.pdb
